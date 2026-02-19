@@ -220,13 +220,6 @@ Built with modern web technologies:
 
 Your professional portfolio is ready to impress! 
 
-**Next Steps:**
-1. Add your profile image
-2. Update your social links
-3. Choose your favorite theme
-4. Deploy it online
-5. Share with your network!
-
 ---
 
 **Built with ❤️ for professional excellence** 🚀
